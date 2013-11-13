@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+pageup"], "command": "next_view_in_stack" },
+	{ "keys": ["ctrl+pagedown"], "command": "prev_view_in_stack" },
+	{ "keys": ["home"], "command": "move_to", "args": {"to": "bol"} },
+	{ "keys": ["end"], "command": "move_to", "args": {"to": "eol"} }
+]
